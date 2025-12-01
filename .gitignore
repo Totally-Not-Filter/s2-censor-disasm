@@ -1,0 +1,7 @@
+# Misc. compiler output.
+main.lst
+main.log
+
+# Built ROMs.
+s2built.bin
+s2built.prev.bin
